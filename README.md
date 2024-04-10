@@ -1,1 +1,2 @@
-Meus exercicios de python sobre import math é operadores 
+Meus exercicios de python
+my python exercises
